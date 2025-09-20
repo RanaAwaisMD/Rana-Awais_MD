@@ -9,7 +9,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://files.catbox.moe/3u88n0.webp">
-    <img src="https://files.catbox.moe/5qyy4u.jpg" width="100%" height="auto">
+    <img src="https://github.com/RanaAwaisMD/Rana-Awais_MD/blob/main/assets/bot_image.jpg" width="100%" height="auto">
   </a>
 </p>
 
