@@ -55,7 +55,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ### Deploy Now on Below Panel
 <div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+<a href="https://dashboard.katabump.com/auth/login#88297d" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
 </div>
