@@ -66,7 +66,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 
 </a>
-  <a href="https://whatsapp.com/channel/0029VbAsXOu5fM5g9sLpV22P">
+  <a href="https://whatsapp.com/channel/0029Vb8DoTx60eBXBE0WUC39">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
